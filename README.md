@@ -1,9 +1,10 @@
 # XpayFinance_LLM
 A Large Language ML Model that summarizes the Financial health of a company using OpenAI APIs and Streamlit Rendering. This project demonstrates the utilization of a ChromaDB vectorstore within a Langchain pipeline to develop a GPT Investment Summarizer. The system allows for loading PDF documents and employing them in conjunction with a pre-trained language model, such as GPT, without requiring additional fine-tuning.
 
+## The LangChain Architecture
+![description](images/Prompt.jpg)
 <p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
 </a></p>
-
 # Web interface 
 ![description](images/web.png)
 # Installation 🚀
