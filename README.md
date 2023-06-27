@@ -5,7 +5,7 @@ A Large Language ML Model that summarizes the Financial health of a company usin
 </a></p>
 
 # Web interface 
-![description](/home/misango/code/XpayFinance_LLM/images/web.png)
+![description](images/web.png)
 # Installation 🚀
 1. Create a virtual environment `python -m venv langchainenv`
 2. Clone this repo 
