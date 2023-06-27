@@ -4,6 +4,8 @@ A Large Language ML Model that summarizes the Financial health of a company usin
 <p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
 </a></p>
 
+# Web interface 
+![description](/home/misango/code/XpayFinance_LLM/images/web.png)
 # Installation 🚀
 1. Create a virtual environment `python -m venv langchainenv`
 2. Clone this repo 
@@ -11,4 +13,4 @@ A Large Language ML Model that summarizes the Financial health of a company usin
 4. create a file name config.py and type `Openai_api_key = YOUR_OWN_KEY`
 4. Install the required dependencies `pip install -r requirements.txt`
 7. Start the app `streamlit run app.py`  
-8. Upload Any Financial document and 
+8. Upload Any Financial document and prompt any question you may have
